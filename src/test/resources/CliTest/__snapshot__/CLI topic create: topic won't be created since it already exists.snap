@@ -1,0 +1,5 @@
+{
+  "__class__": "HashMap",
+  "err": "",
+  "out": "topic1: failure: org.apache.kafka.common.errors.TopicExistsException: Topic \u0027topic1\u0027 already exists.\n"
+}
