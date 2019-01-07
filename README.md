@@ -67,7 +67,25 @@ You don't need a working Kafka instance, the test provisions it's own instance j
 There are currently just a few junit tests available. More to come. One nice thing about 
 it, there's a [snapshot test library](https://blog.karumi.com/kotlin-snapshot-testing/) used similar to jest.
 
-More documentation follows, i've to leave the train for now :)  
+## Links 
+
+- [How to Kotlin by @abreslav](https://youtu.be/6P20npkvcb8)
+
+  Heard nice things about Kotlin, but that talk made me try it 
+
+- [Kafka tutorial - Simple client API](https://github.com/aseigneurin/kafka-tutorial-simple-client)
+   
+   Blog + Sourcecode, perfect kick off for this project
+
+- [Writing Stream Processors in Kotlin by Mario Mueller](https://youtu.be/SgEaHrA1KfI)
+   
+   Very useful talk about Kafka Streams (And Kafka itself)
+
+
+   
+
+
+   
 
 
 
